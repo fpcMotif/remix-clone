@@ -1,0 +1,5 @@
+{
+  "name": "Remix Clone",
+  "description": "A pixel-perfect recreation of the Remix.run homepage using React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
